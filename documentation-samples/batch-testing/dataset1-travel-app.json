@@ -1,0 +1,24 @@
+[
+    {
+        "text": "go to paris",
+        "intent": "BookFlight",
+        "entities": [
+            {
+                "entityName": "location",
+                "startPos": 6,
+                "endPos": 10
+            }
+        ]
+    },
+    {
+        "text": "ticket to paris",
+        "intent": "BookFlight",
+        "entities": [
+            {
+                "entityName": "location",
+                "startPos": 10,
+                "endPos": 14
+            }
+        ]
+    }
+]
